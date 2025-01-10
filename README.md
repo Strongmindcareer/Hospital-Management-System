@@ -11,7 +11,7 @@ The Hospital Management System is a Java-based application designed to enhance h
  ![Screenshot 2025-01-10 181258](https://github.com/user-attachments/assets/903b7a43-40fd-403c-ac57-e5d937a1966a)
  ![Screenshot 2025-01-10 181718](https://github.com/user-attachments/assets/21e1d99c-acf4-4012-a781-7280dff9bcd3)
 
-# Patient Information Search 🔎: Search and retrieve patient details efficiently.
+* Patient Information Search 🔎: Search and retrieve patient details efficiently.
   ![Screenshot 2025-01-10 183110](https://github.com/user-attachments/assets/89c6e1cd-bed4-456c-8581-9859c5ef0c2a)
 
 * Rooms Management 🚪:Assign rooms to patients and track room availability.
