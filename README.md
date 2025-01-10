@@ -4,8 +4,11 @@ The Hospital Management System is a Java-based application designed to enhance h
  ## User Login 🔐 - Secure authentication system for accessing the application.
  ![Screenshot 2025-01-10 181224](https://github.com/user-attachments/assets/d67a6ad0-a261-48a1-8a68-076e02eac8d4)
 ## Reception Section 🛎️
-### Add New Patient ➕👨‍⚕️: Register new patients by entering their information.
  ![Screenshot 2025-01-10 181258](https://github.com/user-attachments/assets/903b7a43-40fd-403c-ac57-e5d937a1966a)
+### Add New Patient ➕👨‍⚕️: Register new patients by entering their information.
+![Screenshot 2025-01-10 181642](https://github.com/user-attachments/assets/a1e22226-ff48-4c37-a8e7-ded8bb5894ab)
+![Screenshot 2025-01-10 181718](https://github.com/user-attachments/assets/1985b0a6-704b-406b-9cce-006cd89b7168)
+
 ### Patient Information Search 🔎: Search and retrieve patient details efficiently.
   ![Screenshot 2025-01-10 183110](https://github.com/user-attachments/assets/89c6e1cd-bed4-456c-8581-9859c5ef0c2a)
 ### Rooms🚪:Assign rooms to patients and track room availability.
